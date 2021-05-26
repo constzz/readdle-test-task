@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Readdle Test 2021</string>
     <string name="simulate_changes">SIMULATE CHANGES</string>
-    <string name="grid">Grid</string>
     <string name="not_founded_contact">Unable to find this contact. Please, return to contacts list.</string>
     <string name="details_activity_support_action_bar_title">Details</string>
     <string name="online">Online</string>
