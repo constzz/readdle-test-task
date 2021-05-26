@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Readdle Test 2021"

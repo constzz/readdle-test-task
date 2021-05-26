@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_list_first_names">
+
+        <item>Anderson</item>
+        <item>Adams</item>
+        <item>Laura</item>
+        <item>Betty</item>
+        <item>Miller</item>
+
+        <item>Garcia</item>
+        <item>Roberts</item>
+        <item>Mary</item>
+        <item>Sarah</item>
+        <item>Kevin</item>
+
+        <item>Elizabeth</item>
+        <item>Evans</item>
+        <item>Roberts</item>
+        <item>Betty</item>
+        <item>Susan</item>
+
+        <item>Iris</item>
+        <item>Ximena</item>
+        <item>Alondra</item>
+        <item>Kathleen</item>
+        <item>Zandor</item>
+
+    </string-array>
+
+    <string-array name="contact_list_last_names">
+
+        <item>Thomas</item>
+        <item>Green</item>
+        <item>Michelle</item>
+        <item>Lopatskaya</item>
+        <item>Wilson</item>
+
+        <item>Lewis</item>
+        <item>Turner</item>
+        <item>Jackson</item>
+        <item>Scott</item>
+        <item>John</item>
+
+        <item>Creator</item>
+        <item>Collins</item>
+        <item>Jackson</item>
+        <item>Carin</item>
+        <item>Lee</item>
+
+        <item>Acrellano</item>
+        <item>Macias</item>
+        <item>Newton</item>
+        <item>Soto</item>
+        <item>Wells</item>
+
+    </string-array>
+
+    <string-array name="contact_list_emails">
+
+        <item>kostiantyn2004@gmail.com</item>
+        <item>bancboy@me.com</item>
+        <item>engelen@me.com</item>
+        <item>oster@live.com</item>
+        <item>parrt@aol.com</item>
+
+        <item>chaikin@gmail.com</item>
+        <item>sisyphus@outlook.com</item>
+        <item>demmel@gmail.com</item>
+        <item>mastinfo@yahoo.com</item>
+        <item>chaikin@gmail.com</item>
+
+        <item>uncle@gmail.com</item>
+        <item>melnik@att.net</item>
+        <item>louise@outlook.com</item>
+        <item>hillct@msn.com</item>
+        <item>mkearl@optonline.net</item>
+
+        <item>mcrawfor@yahoo.com</item>
+        <item>skythe@sbcglobal</item>
+        <item>policies@mac.com</item>
+        <item>frode@att.net</item>
+        <item>satishr@msn.com</item>
+
+    </string-array>
+
+</resources>
