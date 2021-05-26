@@ -58,8 +58,8 @@ class DetailsActivity : AppCompatActivity() {
             )
         Picasso.get()
             .load(contact.imageUri)
-            .placeholder(R.drawable.image_placeholder)
-            .error(R.drawable.image_error)
+            .placeholder(R.drawable.avatar_placeholder)
+            .error(R.drawable.avatar_error)
             .into(contactProfileImage)
     }
 

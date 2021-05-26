@@ -51,8 +51,8 @@ class ContactListViewAdapter(private val layoutManager: GridLayoutManager?, priv
 
         Picasso.get()
                 .load(currentContact.imageUri)
-                .placeholder(R.drawable.image_placeholder)
-                .error(R.drawable.image_error)
+                .placeholder(R.drawable.avatar_placeholder)
+                .error(R.drawable.avatar_error)
                 .into(holder.contactProfileImageItemView)
 
         holder.itemView.setOnClickListener {
