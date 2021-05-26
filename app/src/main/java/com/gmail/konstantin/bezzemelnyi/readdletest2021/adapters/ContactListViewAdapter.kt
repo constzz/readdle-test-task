@@ -45,7 +45,7 @@ class ContactListViewAdapter(private val layoutManager: GridLayoutManager?, priv
             holder.contactFullNameItemView.text = currentContact.fullName
         }
 
-        holder.contactIsOnlineStatusImageItemView?.visibility =
+        holder.contactIsOnlineStatusImageItemView.visibility =
                 if (currentContact.isOnline) View.VISIBLE
                 else View.GONE
 
